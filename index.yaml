@@ -3,6 +3,16 @@ entries:
   gabschart:
   - apiVersion: v2
     appVersion: 1.48.0
+    created: "2023-03-07T17:25:03.224827266Z"
+    description: A Helm chart for Kubernetes
+    digest: 24cd72a0a0ece2db270ac8fe443b54d11b0ecb5ee4a48bc76ad30cee5f1d6316
+    name: gabschart
+    type: application
+    urls:
+    - https://github.com/nightmareze1/helm-octopus/releases/download/gabschart-21.0.0/gabschart-21.0.0.tgz
+    version: 21.0.0
+  - apiVersion: v2
+    appVersion: 1.48.0
     created: "2023-03-07T17:03:14.310973808Z"
     description: A Helm chart for Kubernetes
     digest: 77eb912882289c08954610eab64dfbfe2f883cae2653529ca252c658a4bc9625
@@ -11,4 +21,4 @@ entries:
     urls:
     - https://github.com/nightmareze1/helm-octopus/releases/download/gabschart-20.0.0/gabschart-20.0.0.tgz
     version: 20.0.0
-generated: "2023-03-07T17:03:14.310978308Z"
+generated: "2023-03-07T17:25:03.224835866Z"
